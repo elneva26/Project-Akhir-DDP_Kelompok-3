@@ -1,0 +1,36 @@
+{
+    "produk": [
+        {
+            "no": 1,
+            "nama": "Makanan Kucing",
+            "kategori": "Makanan Hewan",
+            "harga": 45000,
+            "stok": 10
+        },
+        {
+            "no": 2,
+            "nama": "Makanan Anjing",
+            "kategori": "Makanan Hewan",
+            "harga": 60000,
+            "stok": 15
+        },
+        {
+            "no": 3,
+            "nama": "Shampoo Hewan",
+            "kategori": "Kebutuhan Hewan",
+            "harga": 30000,
+            "stok": 20
+        },
+        {
+            "no": 4,
+            "nama": "wiskas",
+            "kategori": "makanan kucing",
+            "harga": 100000
+        },
+        {
+            "nama": "sda",
+            "kategori": "kebutuhan",
+            "harga": 2
+        }
+    ]
+}
