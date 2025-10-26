@@ -167,6 +167,19 @@ ini adalah tampilan menu user yang berisi kelola hewan/belanja kebutuhan hewan/p
 
 -isi menu kelola hewan:
 
+<img width="179" height="83" alt="image" src="https://github.com/user-attachments/assets/67359081-7300-4393-839b-0eea4d07f0df" />
+
+disini akan ada 3 submenu yang isinya daftarkan hewan/lihat hewan saya dengan memilih angka 1/2 dan 3 untuk kembali ke menu user
+
+- isi submenu daftarkan hewan
+ 
+<img width="276" height="185" alt="image" src="https://github.com/user-attachments/assets/a09bb108-69ee-4206-aef1-283194e083d5" />
+
+disitu kita akan mengisi nama, jenis, dan umur dari hewan kesayangan kita dan dilanjut pesan "apakah data suda benar" jika iya maka data akan tersimpan ke database HAE dan jika tidak maka pendaftaran hewan dibatalkan untuk memilih menggunakan (y/n)
+
+
+
+
 
 
 
