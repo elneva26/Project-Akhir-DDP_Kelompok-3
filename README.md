@@ -146,9 +146,11 @@ ini adalah isi menu baca data maka akan memunculkan informasi data barang dan da
 - isi menu ubah data:
 
 <img width="193" height="90" alt="image" src="https://github.com/user-attachments/assets/c493d065-f8f9-4000-b4ef-ee497779051c" />
+<img width="404" height="471" alt="image" src="https://github.com/user-attachments/assets/afd1de06-4091-48cd-b234-fcef25d6f699" />
+
 
 disini akan muncul 3 submenu ingin ubah data barang atau data hewan dengan memilih angka 1/2 dan 3 untuk kembali
-isi menu ubah data dsini mirip seperti tambah data namun disini kita mengubah data yang sudah ada sebelumnya ada ada pesan "apakah data suda benar" diakhir pengisian data
+isi menu ubah data dsini mirip seperti tambah data namun disini ditunjukkan data seperti nama, kategori, dan harga saat ini kita lalu mengubah data yang sudah ada sebelumnya dan diakhir ada pesan"apakah data suda benar" diakhir pengisian data jika berhasil maka data diupdate  jika tidak maka update data dibatalkan
 
 - isi menu hapus data:
 
