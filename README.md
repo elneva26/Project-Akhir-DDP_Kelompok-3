@@ -1,13 +1,20 @@
 # Project-Akhir-DDP_Kelompok-3-Sistem manajemen perawatan hewan peliharaan-Pet Shop HAE
 
 Nama Anggota :Evan Setiawan     2509116036
+
               Elena Dementieva  2509116008
+              
               Wahid Nur Hakim   2509116016
+              
 Kelas        : Sistem Informasi A'25
+
 Tugas        : Projek Akhir Dasar-Dasar Pemrograman
+
 Tema         : Sistem Manajemen Perawatan Hewan Peliharaan Hae Pet Shop
 
+
 Deskripsi Singkat HAE Pet Shop
+
 Program Hae Petshop merupakan sebuah Sistem Manajemen Perawatan Hewan Peliharaan yang dirancang untuk mengelola berbagai aspek operasional petshop secara terintegrasi. Program ini bertujuan menyediakan platform komprehensif yang mencakup manajemen pengguna, inventaris barang, data hewan, transaksi pembelian, dan layanan perawatan hewan. Secara fundamental, program ini dibangun dengan pendekatan pemrograman prosedural yang memanfaatkan fungsi-fungsi modular untuk setiap fitur utamanya.
 
 Alur algoritma program dimulai dengan sistem autentikasi yang memungkinkan pengguna melakukan registrasi akun baru atau login dengan kredensial yang sudah terdaftar. Program membedakan akses berdasarkan peran pengguna, dimana admin memiliki kendali penuh untuk melakukan operasi CRUD pada data barang dan hewan, sementara user biasa dapat mengelola hewan peliharaan mereka sendiri, berbelanja kebutuhan hewan, dan menggunakan layanan perawatan. Sistem ini dirancang dengan mekanisme validasi input yang robust untuk memastikan integritas data, termasuk pengecekan panjang input, tipe data, dan handling terhadap interupsi keyboard.
