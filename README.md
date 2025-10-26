@@ -56,6 +56,24 @@ role user: sebagai user kalian disini bisa mengelola, belanja kebutuhan hewan, p
                       topup 2.000.000 
                      -selanjutnya kalian bisa membayar yang ada di keranjang kalian dan setelah membayar akan muncul                                             nota pembayaran yang berisi nama user, tanggal dan jam pembayaran kemudian subtotal item belanja dan perawatan yang
                       yang kita pilih
+________________________________________________________________________________________________________________________________________________________________________
+flowchart:
+menu utama:
+
+<img width="8290" height="8315" alt="Flowchart PA DDP - malam-Menu Utama drawio" src="https://github.com/user-attachments/assets/674dd81f-dc9a-4c42-bf18-c03fcef6aaab" />
+
+menu admin
+
+
+
+
+
+menu user
+
+
+
+
+
 
 
 ________________________________________________________________________________________________________________________________________________________________________
