@@ -86,13 +86,17 @@ isi menu keluar
 ini adalah isi menu keluar yang berisi ucapan terimakasih sudah mengunjungi program ini
 
 
+
+
+
+
 menu admin:
 
 <img width="531" height="298" alt="image" src="https://github.com/user-attachments/assets/7f646d29-4854-4d1b-97a3-b7da0144e11e" />
 
-ini adalah tampilan menu utama yang berisi tambah data/lihat data/ubah data/hapus data/kembali dengan memilih angka 1/2/3/4/5
+ini adalah tampilan menu admin yang berisi tambah data/lihat data/ubah data/hapus data/kembali dengan memilih angka 1/2/3/4/5
 
-isi menu tambah data:
+-isi menu tambah data:
 
 <img width="147" height="95" alt="image" src="https://github.com/user-attachments/assets/dba9e529-93ea-40b4-9866-b7895ca7dbf4" />
 
@@ -117,22 +121,56 @@ setelah menginput nama, kategori, dan harga barang akan muncul pesan "apakah dat
 <img width="262" height="61" alt="image" src="https://github.com/user-attachments/assets/11c9d6b6-7fb7-48a8-bd51-f846ad94c60d" />
 
 
-isi menu baca data:
+-isi menu baca data:
 
 <img width="428" height="393" alt="image" src="https://github.com/user-attachments/assets/94762d16-6637-412f-b257-90bfb332ecb9" />
 
 ini adalah isi menu baca data maka akan memunculkan informasi data barang dan data hewan yang ada di database
 
-isi menu ubah data:
+-isi menu ubah data:
 
 <img width="193" height="90" alt="image" src="https://github.com/user-attachments/assets/c493d065-f8f9-4000-b4ef-ee497779051c" />
 
 disini akan muncul 3 submenu ingin ubah data barang atau data hewan dengan memilih angka 1/2 dan 3 untuk kembali
 isi menu ubah data dsini mirip seperti tambah data namun disini kita mengubah data yang sudah ada sebelumnya ada ada pesan "apakah data suda benar" diakhir pengisian data
 
-isi menu hapus data:
+-isi menu hapus data:
 
 <img width="179" height="87" alt="image" src="https://github.com/user-attachments/assets/d2e4c69f-dd72-4bdf-80bc-10619b967aec" />
+
+disini akan muncul 3 submenu ingin hapus data barang atau data hewan dengan memilih angka 1/2 dan 3 untuk kembali
+
+<img width="373" height="210" alt="image" src="https://github.com/user-attachments/assets/ace3e379-2fe9-4b11-9e32-80c21780fa2c" />
+
+disini kita ambil contoh hapus data barang, disini akan memunculkan data barang dan saat kita ingin menghapus kita bisa memilih no item yang ingin dihapus kita ambil contoh pilih no 2
+
+<img width="359" height="221" alt="image" src="https://github.com/user-attachments/assets/c3632fea-030e-4aa1-a1b4-46b11d9694a4" />
+
+itu adalah pesan jika data barang berhasil dihapus penggunaan untuk data hewan pun juga sama hanya berbeda isi datanya saja
+
+-isi menu keluar
+
+<img width="559" height="181" alt="image" src="https://github.com/user-attachments/assets/08369b0c-fa83-495b-90a6-f9563c8c7ac1" />
+
+jika kita memilih menu keluar maka akan kembali ke menu utama
+
+
+
+
+
+
+menu user:
+
+<img width="489" height="291" alt="image" src="https://github.com/user-attachments/assets/365ef32e-1439-42b7-afbe-e529eb676af5" />
+
+ini adalah tampilan menu user yang berisi kelola hewan/belanja kebutuhan hewan/perawatan/rincian pembelian/transaksi/kembali dengan memilih angka 1/2/3/4/5/6
+
+-isi menu kelola hewan:
+
+
+
+
+
 
 
 
