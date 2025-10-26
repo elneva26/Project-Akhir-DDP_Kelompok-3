@@ -62,18 +62,16 @@ menu utama:
 
 <img width="8290" height="8315" alt="Flowchart PA DDP - malam-Menu Utama drawio" src="https://github.com/user-attachments/assets/674dd81f-dc9a-4c42-bf18-c03fcef6aaab" />
 
-menu admin
+menu admin:
 
-
-![WhatsApp Image 2025-10-26 at 23 23 08](https://github.com/user-attachments/assets/1011cfed-3bd8-4002-b408-cd155992d2e8)
-
+![Flowchart PA DDP - malam-Menu Admin-revisi](https://github.com/user-attachments/assets/751c827d-8853-4ad5-bdfc-bcd3ef5b1fc6)
 
 
 
-menu user
+menu user:
 
 
-![WhatsApp Image 2025-10-26 at 23 23 08 (1)](https://github.com/user-attachments/assets/c03aeb0b-be2d-44b6-a566-b923ba592ef5)
+![Flowchart PA DDP - malam-Menu User revisi](https://github.com/user-attachments/assets/e5911dee-ad33-468e-8854-8b87c0b41538)
 
 
 
