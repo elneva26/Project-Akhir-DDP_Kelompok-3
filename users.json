@@ -18,14 +18,15 @@
             "username": "elen",
             "password": "pass2",
             "role": "user",
-            "saldo": 500000,
+            "saldo": 1160000,
             "hewan": [
                 {
                     "nama": "Buddy",
                     "jenis": "Anjing",
                     "umur": "2 bulan"
                 }
-            ]
+            ],
+            "keranjang": []
         },
         {
             "username": "evan",
@@ -83,5 +84,6 @@
             "saldo": 0,
             "hewan": []
         }
-    ]
+    ],
+    "datahewan": []
 }

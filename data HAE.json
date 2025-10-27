@@ -2,9 +2,9 @@
     "produk": [
         {
             "no": 1,
-            "nama": "Makanan Kucing",
-            "kategori": "Makanan Hewan",
-            "harga": 45000,
+            "nama": "knk",
+            "kategori": "kebutuhan",
+            "harga": 20000,
             "stok": 10
         },
         {
@@ -26,11 +26,6 @@
             "nama": "wiskas",
             "kategori": "makanan kucing",
             "harga": 100000
-        },
-        {
-            "nama": "sda",
-            "kategori": "kebutuhan",
-            "harga": 2
         }
     ]
 }
